@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+  margin:0px;
+  padding:0px;
+}
+body{
+  margin:0px;
+  padding:0px;
+}
+.todo-container{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  background-color:rgba(7, 7, 6, 0.753);
+  min-height:100vh;
+  padding:40px;
+  color:white;
+  font-family:"Bree Serif";
+  min-width:300px;
+}
+.todo-heading{
+  font-size:30px;
+  font-weight:bold;
+  line-height:1.8
+}

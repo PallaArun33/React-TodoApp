@@ -1,0 +1,27 @@
+.input-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  font-family: 'Roboto';
+  margin-bottom: 20px;
+}
+.input-item {
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 20px;
+  outline: none;
+  width: 80%;
+  min-width:120px;
+}
+.add-button {
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(221, 21, 178);
+  color: white;
+  cursor: pointer;
+  outline: none;
+  width: 10%;
+  min-width:50px;
+}

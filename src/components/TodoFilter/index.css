@@ -1,0 +1,19 @@
+.select-filter-cotainer{
+  display:flex;
+  flex-direction:row;
+  align-items:center;
+  width:100%;
+  justify-content:flex-end;
+
+}
+.slect-item-style{
+  padding:10px;
+  border-radius:10px
+}
+.filter-label{
+  font-size:18px;
+  font-weight:bold;
+}
+.option-style{
+  font-weight:bold;
+}
